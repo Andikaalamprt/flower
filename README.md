@@ -1,13 +1,1 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-# Author
-- Flower Code : tama (@tams88_)
-
-Thanks to codepan and tama
